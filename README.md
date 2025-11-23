@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 My Recent projects are available at my [Portfolio](https://portfolio-theta-eight-92uw8tmllp.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript**
 
